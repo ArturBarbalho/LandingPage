@@ -14,10 +14,6 @@ export default function MainNav(){
         </p>
 
         <S.CardCont >
-
-
-
-
       <S.Div >
         <S.Behind color='red' height='300px'  />
         <S.Card color='black'  >
@@ -26,9 +22,7 @@ export default function MainNav(){
            <p><LoremIpsum p={1} avgSentencesPerParagraph={3} /></p>
         </S.Card>
         </S.Div>
-
       <S.Div>
-      
         <S.Card color='brown' >
            <h1>Future Vision</h1> 
            <div></div>
@@ -46,11 +40,6 @@ export default function MainNav(){
            </p>
         </S.Card>
         </S.Div>
-
-
-  
-
-
         </S.CardCont>
 
         <S.Traço/>
